@@ -1,2 +1,2 @@
 
-| [<<< Home](../../)    | [Main Menu](../../)     | [01 Basics >>>](../../01_basics/basics.ipynb)  | 
+| [<<< Home](../../blob/Readme.md) | [01 Basics >>>](../../blob/01_basics/basics.ipynb)  | 
