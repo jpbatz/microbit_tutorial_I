@@ -1,7 +1,8 @@
-# The BBC micro:bit  
+# __The BBC micro:bit__ 
 #### - A tutorial on using by Chalmer Lowe, The Dark Lord of Python!
 
-## **MAIN MENU**
+
+## MAIN MENU
 
 [00 - Installation and Preparation](./00_install_and_prep/install.ipynb)
 
