@@ -1,5 +1,5 @@
-# A tutorial on using the BBC micro:bit 
-### by Chalmer Lowe, The Dark Lord of Python!
+# The BBC micro:bit 
+### A tutorial on using by Chalmer Lowe, The Dark Lord of Python!
 
 
 
