@@ -1,1 +1,1 @@
-| [<<< 01 Basics](https://github.com/jpbatz/microbit_tutorial_I/blob/master/basics/basics.ipynb) | [Main Menu](https://github.com/jpbatz/microbit_tutorial_I/blob/master/README.md) | [03 Buttons >>>](https://github.com/jpbatz/microbit_tutorial_I/blob/master/03_display/display.ipynb) | 
+| [<<< 01 Basics](https://github.com/jpbatz/microbit_tutorial_I/blob/master/01_basics/basics.ipynb) | [Main Menu](https://github.com/jpbatz/microbit_tutorial_I/blob/master/README.md) | [03 Buttons >>>](https://github.com/jpbatz/microbit_tutorial_I/blob/master/03_display/display.ipynb) | 
