@@ -13,7 +13,7 @@ You will learn to subject hardware to your will using only the power of Python.
 
 [03 - Buttons](./03_buttons/buttons.ipynb)
 
-[04 - Input OUtput](./04_input_output/io.ipynb))
+[04 - Input Output](./04_input_output/io.ipynb)
 
 [05 - Random](./05_random/randomness.ipynb)
 
