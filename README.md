@@ -24,18 +24,18 @@ You will learn to subject hardware to your will using only the power of Python.
 
 What you will need:
 
-• a BBC micro:bit (http://microbit.org/guide/features/)
-• battery pack
-• cable
-• batteries
+* a BBC micro:bit (http://microbit.org/guide/features/)
+* battery pack
+* cable (longer than the ones provided in the kits, recommended)
+* batteries
 
 We will teach the skills and tools to operate the hardware components on the micro:bit:
 
-• accelerometer
-• compass
+* accelerometer
+* compass
 * input buttons
-• input/output pins
-• display panel
-• and more
+* input/output pins
+* display panel
+* and more
 
 A laptop or computer with Python 3 installed.
