@@ -38,4 +38,4 @@ input buttons
 • display panel
 • and more
 
-A laptop or computer with Python 3 and the mu editor installed.
+A laptop or computer with Python 3 installed.
