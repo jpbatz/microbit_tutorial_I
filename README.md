@@ -33,7 +33,7 @@ We will teach the skills and tools to operate the hardware components on the mic
 
 • accelerometer
 • compass
-input buttons
+* input buttons
 • input/output pins
 • display panel
 • and more
