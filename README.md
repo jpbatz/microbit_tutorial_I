@@ -1,6 +1,7 @@
 # __The BBC micro:bit__ 
 #### - A tutorial on using by Chalmer Lowe, The Dark Lord of Python!
 
+[BBC micro:bit Features](http://microbit.org/guide/features/)
 
 ## MAIN MENU
 
@@ -19,3 +20,4 @@
 [06 - Movement](./06_movement/movement.ipynb)
 
 [07 - Radio](./07_radio/radio.ipynb)
+
