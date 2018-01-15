@@ -31,11 +31,11 @@ What you will need:
 
 We will teach the skills and tools to operate the hardware components on the micro:bit:
 
+* display panel
 * accelerometer
 * compass
 * input buttons
 * input/output pins
-* display panel
 * and more
 
 A laptop or computer with Python 3 installed.
